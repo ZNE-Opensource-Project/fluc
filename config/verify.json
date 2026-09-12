@@ -1,0 +1,9 @@
+{
+    "token": "MTQ3MDg0NTA5Nzk4NDc4NjYyOQ.GV4ar3.fkVTTwK9K0d3XyTfpAy7eDmMJjiRokR-YCq1Mw",
+    "id": 1470845097984786629,
+    "secret": "EHV5DgTze0-0gjH--qF8R4nnxfp1_-Jn",
+    "scope": [
+        "identify",
+        "guilds.join"
+    ]
+}

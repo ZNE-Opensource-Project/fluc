@@ -1,0 +1,24 @@
+{
+    "0": {
+        "channel": {
+            "name": [
+                "{fonts}"
+            ],
+            "topic": [
+                "{fonts}"
+            ],
+            "nsfw": [
+                false
+            ],
+            "news": [
+                false
+            ],
+            "slowmode_delay": [
+                0
+            ],
+            "create_amount": [
+                500
+            ]
+        }
+    }
+}

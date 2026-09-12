@@ -1,0 +1,22 @@
+{
+    "manager": "MTQ4NDA2Njg2MTUzMTUzMzM5Mg.G06TWf.WvLiRF2eOUEMVsDCTSJaw1m9nkIKasrkiQx5WI",
+    "no_admin": "MTQ4NzMzMTg2MTIzNDU4NTYyMQ.GZlM82.NTwbPiH1BX8fOhYdqrsr6rRAQbA5rFuPvZwgX4",
+    "science": "https://discord.com/api/webhooks/1479921899604676852/h_WDOP5OTXYs7epl5S-P3TjNkBHqwMFrtzsYrb1c36_0H17F7ltmzSpZiufs6Ferakj9",
+    "datalix_api_token": null,
+    "pterodactyl_api_token": "ptlc_IG2vQfoB4FvzQ5aDQ1wykAnI3djbJefrVwBcBH5FBk3",
+    "pterodactyl_hostname": "https://ctrl.lunes.host",
+    "service": "511a8d00",
+    "owner_id": 1472631965147725956,
+    "server_id": 1472661824288719071,
+    "invite_channel": 1472682957238964288,
+    "lander": 1478840384485327022,
+    "emoji_server": 1477597273440387105,
+    "enable_verify": false,
+    "max_servers": 75,
+    "small_server": 25,
+    "test_server": 10,
+    "proxy": {
+        "http": "http://3tin3ehX:svBHNNaL@lite.flashproxy.io:6969",
+        "https": "https://3tin3ehX:svBHNNaL@lite.flashproxy.io:6969"
+    }
+}
